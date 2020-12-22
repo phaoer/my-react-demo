@@ -6,7 +6,9 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "core-js": "^3.8.1",
     "react": "^17.0.1",
+    "react-app-polyfill": "^2.0.0",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
@@ -27,12 +29,15 @@
     "production": [
       ">0.2%",
       "not dead",
-      "not op_mini all"
+      "not op_mini all",
+      "ie >= 9"
     ],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
-      "last 1 safari version"
+      "last 1 safari version",
+      "ie >= 9"
     ]
-  }
+  },
+  "homepage": "."
 }

@@ -3034,7 +3034,7 @@ core-js@^2.4.0:
   version "2.6.12"
   resolved "https://registry.npm.taobao.org/core-js/download/core-js-2.6.12.tgz?cache=0&sync_timestamp=1607215997560&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fcore-js%2Fdownload%2Fcore-js-2.6.12.tgz#d9333dfa7b065e347cc5682219d6f690859cc2ec"
 
-core-js@^3.6.5:
+core-js@^3.6.5, core-js@^3.8.1:
   version "3.8.1"
   resolved "https://registry.npm.taobao.org/core-js/download/core-js-3.8.1.tgz?cache=0&sync_timestamp=1607215997560&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fcore-js%2Fdownload%2Fcore-js-3.8.1.tgz#f51523668ac8a294d1285c3b9db44025fda66d47"
 
